@@ -4,7 +4,8 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.RelativeLayout;
 
-import com.example.danascustomprogeres.progress.BaseProgress;
+import org.danas.customprogress.progress.BaseProgress;
+
 
 public class DanasCustomProgress extends RelativeLayout {
     public  DanasCustomProgress(Context context) {
